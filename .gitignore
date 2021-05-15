@@ -297,3 +297,5 @@ package-lock.json
 !frontend/.env
 
 .env.production
+.env.production
+docker-compose.yaml
